@@ -1,0 +1,1 @@
+Some very basic example and document for qt4 beginners
